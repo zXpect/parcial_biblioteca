@@ -30,8 +30,8 @@ Una API REST desarrollada con Django REST Framework para la gestión completa de
 
 1. Clonar repositorio  
 ```bash
-git clone https://github.com/tu-usuario/biblioteca-api.git
-cd biblioteca-api
+git https://github.com/zXpect/parcial_biblioteca.git
+cd parcial_biblioteca/biblioteca_proyecto
 ```
 
 2. Configurar entorno  
